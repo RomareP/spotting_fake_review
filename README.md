@@ -20,8 +20,8 @@ Together with the fake reviews, the problem of the truth of online information e
 - hotel name;
 - polarity;
 - text of the review;
-- truthfulness; <br>
-We extract:
+- truthfulness; <br> <br>
+We extract: <br>
 - Number of words
 - Number of characters
 - Average word length
